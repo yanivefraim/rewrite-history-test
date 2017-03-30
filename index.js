@@ -1,1 +1,1 @@
-const myKey = 'encripted';
+const myKey = 'examplePass';
