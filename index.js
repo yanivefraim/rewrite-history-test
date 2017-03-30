@@ -1,1 +1,1 @@
-const myKey = 'examplePass';
+const myKey = '1';
